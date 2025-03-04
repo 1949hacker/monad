@@ -30,20 +30,21 @@ The following additional terms apply to this software:
    ✅ Personal projects, academic research, educational use  
    ✅ Open-source contributions under AGPL v3 compliance  
    ✅ Internal use by **non-commercial organizations**  
+   ✅ Internal use by **corporations for non-commercial purposes** (e.g., internal learning and testing, without operational deployment)  
 
 3. **Restricted Use Cases (Require Commercial License)**  
    ❌ Use in any **commercial software or SaaS/PaaS platforms**  
    ❌ Distribution as part of a **paid product or service**  
-   ❌ Use by **corporations or businesses for internal operations**  
-   ❌ Any other revenue-generating activities  
+   ❌ Use by **corporations or businesses for internal operations, business tools, or customer-facing applications**  
+   ❌ Indirect commercial use, including **software that generates revenue through advertisements, data sales, or bundled services**  
 
 4. **Commercial License Inquiry**  
    If you or your organization require commercial usage rights, please contact:  
-   📧 Email: com.hackerbs@gmail.com
-   🌐 Website: https://hackerbs.com
+   📧 Email: com.hackerbs@gmail.com  
+   🌐 Website: https://hackerbs.com  
 
-5. **License Enforcement**  
-   Any violation of these terms will result in the immediate revocation of the rights granted by this license.  
+5. **License Enforcement & Legal Consequences**  
+   Unauthorized commercial use will result in **the immediate revocation of the license** and may be subject to **legal action**, including but not limited to claims for damages and financial compensation.  
 
 These additional terms override any conflicting terms in the AGPL v3 license.
 
@@ -58,20 +59,21 @@ These additional terms override any conflicting terms in the AGPL v3 license.
    ✅ 个人项目、学术研究、教育用途  
    ✅ 遵守 AGPL v3 许可证的开源贡献  
    ✅ 非商业组织的内部使用  
+   ✅ **公司或企业内部非商业用途**（例如，内部学习和测试，但不包括运营部署）  
 
 3. **受限的使用场景（需要商业授权）**  
    ❌ 任何**商业软件或 SaaS/PaaS 平台**的使用  
    ❌ 作为**付费产品或服务**的一部分分发  
-   ❌ **公司或企业内部**使用  
-   ❌ 任何其他**盈利相关活动**  
+   ❌ **公司或企业内部的业务运营、客户应用或商业工具**  
+   ❌ **间接商业用途**（包括但不限于 **通过广告、数据销售或捆绑服务盈利**）  
 
 4. **商业授权申请**  
    如需商业授权，请联系：  
-   📧 邮箱: com.hackerbs@gmail.com
-   🌐 网站: https://hackerbs.com
+   📧 邮箱: com.hackerbs@gmail.com  
+   🌐 网站: https://hackerbs.com  
 
-5. **许可证执行**  
-   任何违反上述条款的行为将导致本许可证立即失效。  
+5. **许可证执行与法律责任**  
+   未经授权的商业使用将导致 **许可证立即失效**，并可能面临 **法律诉讼**，包括但不限于 **损害赔偿和经济补偿**。  
 
 本附加条款优先于 AGPL v3 许可证中可能存在的冲突条款。
 
